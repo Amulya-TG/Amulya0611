@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amulya</h1>
 <h3 align="center">💡Passionate about code, design, and development | Aspiring Python Full Stack Dev</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amulya0611&label=Profile%20views&color=0e75b6&style=flat" alt="amulya0611" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amulya0611" alt="amulya0611" /></a> </p>
-
-- 🌱 I’m currently learning **Python,HTML,CSS,JavaSript,Django.**
+- 🌱 I’m currently learning **Python,HTML,CSS,JavaSript,Flask.**
 
 - 👯 I’m looking to collaborate on **web or app development projects**
 
