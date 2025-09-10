@@ -2,7 +2,7 @@
 <h3 align="center">💡Passionate about code, design, and development | Aspiring Python Full Stack Dev</h3>
 
 
-- 🌱 I’m currently learning **Python,HTML,CSS,JavaSript,Flask.**
+- 🌱 I’m currently learning **Python,HTML,CSS,JavaSript.**
 
 - 👯 I’m looking to collaborate on **web or app development projects**
 
